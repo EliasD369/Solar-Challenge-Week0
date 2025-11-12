@@ -1,0 +1,1 @@
+#The Solar Discover Challenge projects are started.
