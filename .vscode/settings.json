@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "venv/Scripts/python",
+    "python.analysis.autoImportCompletions": true
+}
