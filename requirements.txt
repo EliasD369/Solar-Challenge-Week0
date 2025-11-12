@@ -1,3 +1,14 @@
 pandas
 numpy
 matplotlib
+seaborn
+scipy
+scikit-learn
+jupyter
+notebook
+streamlit
+plotly
+statsmodels
+openpyxl
+pandas-profiling
+pytest
